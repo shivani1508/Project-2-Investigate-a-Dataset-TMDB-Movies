@@ -22,8 +22,11 @@ Decided what questions to ask of the data and carried out explanatory Data Analy
 
 •	Research Question 1: Top 10 Movies by Rating.
 Extracting and plotting data from edited dataset and printing Top 10 Movies
+
 •	Research Question 2: Movies with most and least profit.
+
 •	Research Question 3: Movies with biggest and lowest budget.
+
 •	Research Question 4: Movies with longest, shortest and average runtime.
 
 •	Research Question 5: Total Profits earned by the movies in their respectable Year of release.
@@ -31,8 +34,6 @@ Graphical representation of Total Profits earned Vs Year of the release using Li
 
 •	Research Question 6: The most popular produced genres
 Finding successful movies with respect to Genres and Graphical representation of Movies count by Genres using Bar Chart
-
-
 
 •	Research Question 7: The no. of films produced over time.
 Calculating the no. of movies released in that particular year and Graphical representation of Movies count by Release Year
